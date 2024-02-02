@@ -1,0 +1,4 @@
+numpy==1.23.5
+faiss==1.5.3
+gensim==4.3.2
+scikit_learn==1.4.0
